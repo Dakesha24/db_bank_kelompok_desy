@@ -6,6 +6,6 @@ Anggota:
 - Sahrul Mubarok (2204912)
 - Yogi Muhamad Suardi (2206628) 
 
-Kelas: Pendidikan Ilmu Komputer A 2022
-Mata kuliah : Rekayasa Perangkat Lunak
-Dosen Pengampu : Erlangga, S.Kom., M.T.
+* Kelas: Pendidikan Ilmu Komputer A 2022
+* Mata kuliah : Rekayasa Perangkat Lunak
+* Dosen Pengampu : Erlangga, S.Kom., M.T.
